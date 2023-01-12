@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9NF7LQetAP1ty+p9zsPMR+swZGHq2QBD5ayWVh4+2wAHCBm/o/e7Z1glBzzCT5inyp5F7wed52S9aNGbJ3tEaQ==",
+  "success": true,
+  "projectFilePath": "D:\\2Курс\\ООП\\Курсовая\\r1\\r1\\r1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u0418431\\.nuget\\packages\\awssdk.core\\3.7.11.11\\awssdk.core.3.7.11.11.nupkg.sha512",
+    "C:\\Users\\u0418431\\.nuget\\packages\\awssdk.simplesystemsmanagement\\3.7.17.13\\awssdk.simplesystemsmanagement.3.7.17.13.nupkg.sha512"
+  ],
+  "logs": []
+}
